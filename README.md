@@ -34,6 +34,7 @@
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kolio.kolev.399" height="24" width="24" />
         </a>
     </h4>
+    
 <h1 align="center">Languages and Tools: ⚙</h1>
 <p align="left"> 
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/> 
@@ -50,16 +51,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="vs2022" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
 </p>
-</p>
-<br>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kstkolev&show_icons=true&locale=en&layout=compact" alt="kstkolev" />
 </p>
-<br>
 
+<h1 align="center">Github trophies and stats 🏆 </h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kstkolev" alt="kstkolev" /></a> </p>
-<br>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kstkolev&show_icons=true&locale=en" alt="kstkolev" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kstkolev&" alt="kstkolev" /></p>
