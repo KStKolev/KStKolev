@@ -1,4 +1,5 @@
 <img width="1000" src="https://camo.githubusercontent.com/001e6cff59f72ea92ef66af3af64b65308d2a61fe583c5fc31d5720485f08eef/68747470733a2f2f646576746563686e6f7379732e636f6d2f696e7369676874732f77702d636f6e74656e742f75706c6f6164732f323032312f30372f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+
 <h1 align="center">Greetings 👋, my name is Kolio Kolev</h1>
 <h3 align="center">I am passionate about software engineering and hail from Bulgaria.</h3>
 
@@ -8,13 +9,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kstkolev" alt="kstkolev" /></a> </p>
 
-- 🌱 I’m currently learning **Sofware engineering at Software University**
+🌱 I’m currently learning **Sofware engineering at Software University**
 
-- 💬 Ask me about **.NET, C#, HTML, CSS, MSSQL**
+💬 Ask me about **.NET, C#, HTML, CSS, MSSQL**
 
-- 📫 How to reach me **koliokolev301@gmail.com**
+📫 How to reach me **koliokolev301@gmail.com**
 
-- ⚡ Facts about me **I am a hardworking individual with a lot of enthusiasm for self-development. I thoroughly enjoy interacting with others and being a team player.**
+⚡ Facts about me **I am a hardworking individual with a lot of enthusiasm for self-development. I thoroughly enjoy interacting with others and being a team player.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
