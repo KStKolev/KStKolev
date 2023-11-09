@@ -13,7 +13,7 @@
 
 📫 How to reach me: **koliokolev301@gmail.com**
 
-⚡ Facts about me: **I am a hardworking individual with a lot of enthusiasm for self-development. I thoroughly enjoy interacting with others and being a team player.**
+⚡ Facts about me: **I'm a hardworking individual with a lot of enthusiasm for self-development. I thoroughly enjoy interacting with others and being a team player.**
 
 <h1 align="center">Connect with me: 🤝</h1>
     <h4> 
