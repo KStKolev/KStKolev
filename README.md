@@ -59,4 +59,4 @@
 <h1 align="center">Github trophies and stats 🏆 </h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kstkolev" alt="kstkolev" /></a> </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kstkolev&show_icons=true&locale=en" alt="kstkolev" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KStKolev" alt="GitHub Streak" /></a>
