@@ -7,7 +7,7 @@
 
 <h1 align="center">ℹ Information about me: </h1>
 
-🌱 I’m currently learning: **React**
+🌱 I’m currently learning: **TypeScript**
 
 💬 Ask me about: **.NET, C#, HTML, CSS, MSSQL**
 
