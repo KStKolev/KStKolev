@@ -50,6 +50,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="vs2022" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 </p>
 
 <p align="center">
