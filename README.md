@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋, my name is Kolio Kolev</h1>
+<h1 align="center">Greetings 👋, my name is Kolyo Kolev</h1>
 <h3 align="center">I am very passionate about software engineering and hail from Bulgaria.</h3>
 
 <p width="800" align="center">
@@ -11,7 +11,7 @@
 
 💬 Ask me about: **.NET, C#, HTML, CSS, MSSQL, ReactJS**
 
-📫 How to reach me: **koliokolev301@gmail.com**
+📫 How to reach me: **kolyokolev301@gmail.com**
 
 ⚡ Facts about me: **I'm a hardworking individual with a lot of enthusiasm for self-development. I thoroughly enjoy interacting with others and being a team player.**
 
@@ -24,14 +24,14 @@
     </h4>
     <h4>
       LinkedIn:
-      <a href="https://linkedin.com/in/kolio-kolev-2485131a5" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kolio-kolev-2485131a5" height="24" width="24" />
+      <a href="https://www.linkedin.com/in/kolyo-kolev-2485131a5/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="24" width="24" />
       </a>
     </h4>
     <h4>
       Facebook:
-        <a href="https://fb.com/kolio.kolev.399" target="blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kolio.kolev.399" height="24" width="24" />
+        <a href="https://www.facebook.com/kolyo.kolev.333/" target="blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="24" width="24" />
         </a>
     </h4>
     
