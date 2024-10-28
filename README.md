@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning: **TypeScript**
 
-💬 Ask me about: **.NET, C#, HTML, CSS, MSSQL, ReactJS**
+💬 Ask me about: **.NET, C#, HTML, CSS, MSSQL, React**
 
 📫 How to reach me: **kolyokolev301@gmail.com**
 
